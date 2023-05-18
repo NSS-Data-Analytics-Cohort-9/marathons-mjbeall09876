@@ -1,4 +1,4 @@
-### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
+﻿ ### Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
 
 1. Create a new blank workbook and load the 8 marathon and half-marathon tables from marathons.accdb, a MS Access database called (Data --> Get Data --> From Database --> From Microsoft Access Database).  
     a. Load each table to a separate worksheet. Give the worksheets *_meaningful_* names.  
